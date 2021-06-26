@@ -48,5 +48,5 @@ I am now confident enough in my CSS skills to begin learning basic JavaScript.
 
 ## Author
 
-- GitHub - [@KyBlue] (https://github.com/KyBlue)
+- GitHub - [@KyBlue](https://github.com/KyBlue)
 - Frontend Mentor - [@KyBlue](https://www.frontendmentor.io/profile/KyBlue)
