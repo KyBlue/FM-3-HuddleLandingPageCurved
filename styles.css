@@ -148,6 +148,7 @@ section {
 
 section > div > p {
     max-width: 58ch;
+    margin: 0 auto;
 }
 
 .header1 {
