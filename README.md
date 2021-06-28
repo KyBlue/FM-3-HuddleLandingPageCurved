@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-This challenge gave me practice with reproducing a professional layout using everything I've learned up until this point. I also learned several new things in the process, including semantic HTML, transitions on button hovers, :before and :after psuedo elements, forms, and implementing custom background images. I also worked with several new units such as rem, em, and vw to make the page more responsive. Additionally, I learned how to make my code more readable by using custom variables, dividing it into sections, and adding comments when necessary.
+Semantic HTML, transitions on button hovers, before and after psuedo elements, custom variables, units (rem, em, vw), forms, proper code commenting
 
 ### Continued development
 
