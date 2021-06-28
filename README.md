@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/huddle-landing-page-using-flexbox-zHm39wc1q)
 - Live Site URL: (https://kyblue.github.io/FM-3-HuddleLandingPageCurved/)
 
 ### Built with
